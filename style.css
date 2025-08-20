@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(to right, #6dd5ed, #2193b0);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.3);
+}
+
+blockquote {
+    font-size: 1.5em;
+    margin: 20px 0;
+    font-style: italic;
+}
+
+.author {
+    font-size: 1.2em;
+    font-weight: bold;
+}
